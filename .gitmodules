@@ -1,0 +1,3 @@
+[submodule "VALORANT-Async-Client-API"]
+	path = VALORANT-Async-Client-API
+	url = https://github.com/akbor/VALORANT-Async-Client-API.git
